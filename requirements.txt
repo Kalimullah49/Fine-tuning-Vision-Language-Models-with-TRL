@@ -1,0 +1,6 @@
+transformers
+trl
+torch
+Pillow
+requests
+datasets
