@@ -10,7 +10,7 @@ Welcome! This project demonstrates how to fine-tune vision-language models using
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vision-language-models-with-trl.git
+   git clone https://github.com/Kalimullah49/Fine-tuning-Vision-Language-Models-with-TRL.git
    ```
 2. Install dependencies:
    ```bash
@@ -21,8 +21,8 @@ Welcome! This project demonstrates how to fine-tune vision-language models using
    jupyter notebook vision-language-models-with-transformers.ipynb
    ```
 
-## Example Output
-![Sample Output](assets/sample_output.png)
+## Structure of a Typical Vision Language Mode
+![Sample Output](D:\Github\Fine-tuning Vision Language Models with TRL\assets\Structure of a Typical Vision Language Model.png)
 
 ## License
 This project is licensed under the MIT License.
